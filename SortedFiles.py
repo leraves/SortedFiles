@@ -1,5 +1,6 @@
 import os
 import glob
+import cv2
 
 class moveFiles:
 
